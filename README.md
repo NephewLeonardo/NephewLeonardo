@@ -164,6 +164,7 @@ Acredito no potencial do Brasil como uma futura potência em tecnologia e inova�
 <br/>
 <br/>
 
+---
 ### 📊 Estatísticas
 
 <p>
@@ -172,7 +173,7 @@ Acredito no potencial do Brasil como uma futura potência em tecnologia e inova�
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=NephewLeonardo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=NephewLeonardo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800" 
   />
 
 <img 
